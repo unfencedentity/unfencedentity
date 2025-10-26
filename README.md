@@ -30,9 +30,9 @@
 <hr style="border: 0.5px solid #d0d0d0; margin: 20px 0;">
 
 ### 📈 Current Focus
-- Refining automation blueprints for modular reuse  
-- Expanding Azure architectural knowledge (Governance & RBAC)  
-- Preparing for **AZ-104 certification**
+- Building practical Azure environments (VMs, storage, and networks)
+- Automating deployments with PowerShell and GitHub Actions
+- Advancing towards **AZ-104 certification**
 <hr style="border: 0.5px solid #d0d0d0; margin: 20px 0;">
 
 ### 🤝 Connect with Me
