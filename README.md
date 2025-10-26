@@ -19,10 +19,6 @@
 
 
 ### ⚙️ Tech Stack
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
-![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-lightblue?logo=powershell)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-black?logo=githubactions)
-![IaC](https://img.shields.io/badge/IaC-Infrastructure--as--Code-green)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud-blue?logo=microsoftazure" />
