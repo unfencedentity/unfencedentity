@@ -32,7 +32,7 @@
 ### 📈 Current Focus
 - Refining automation blueprints for modular reuse  
 - Expanding Azure architectural knowledge (Governance & RBAC)  
-- Preparing for **AZ-900 certification**
+- Preparing for **AZ-104 certification**
 <hr style="border: 0.5px solid #d0d0d0; margin: 20px 0;">
 
 ### 🤝 Connect with Me
