@@ -10,7 +10,13 @@
 ### 🧠 About Me
 - 🌍 Based in Europe, working remotely on cloud projects  
 - ☁️ Specializing in Azure automation, RBAC, and modular PowerShell scripting  
-- 🛠️ Experience with enterprise environments, DevOps pipelines & troubleshooting  
+- 🛠️ Experience with enterprise environments, DevOps pipelines & troubleshooting
+
+- ### 🏆 Highlights
+- 🔧 Modular Azure automation blueprints with CI validation
+- 🧩 PowerShell modules aligned to naming & tagging governance
+- 🚀 Cross-platform GitHub Actions (Windows & Ubuntu)
+
 
 ### ⚙️ Tech Stack
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
@@ -18,10 +24,22 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-black?logo=githubactions)
 ![IaC](https://img.shields.io/badge/IaC-Infrastructure--as--Code-green)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud-blue?logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/PowerShell-Automation-lightblue?logo=powershell" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-black?logo=githubactions" />
+  <img src="https://img.shields.io/badge/IaC-Infrastructure--as--Code-green" />
+</p>
+
+
 ### 📈 Current Focus
 - Enhancing automation blueprints  
 - Learning more about Azure architecture  
 - Preparing for **AZ-900 certification**
+
+- ### 🤝 Connect with Me
+📫 Ping me via GitHub Discussions or check my pinned repositories.
+
 
 ---
 
