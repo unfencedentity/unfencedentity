@@ -42,4 +42,4 @@
 
 ---
 
-🧩 *“Simple, scalable, and smart — that’s how I build in the cloud.”*
+🧩 *“Simple, scalable, and smart - that’s how I build in the cloud.”*
