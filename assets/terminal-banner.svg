@@ -1,0 +1,41 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="18" fill="#050805"/>
+
+  <rect x="28" y="28" width="1144" height="364" rx="14" fill="#020402" stroke="#1f7a3a" stroke-width="2"/>
+
+  <circle cx="58" cy="56" r="7" fill="#ff5f56"/>
+  <circle cx="82" cy="56" r="7" fill="#ffbd2e"/>
+  <circle cx="106" cy="56" r="7" fill="#27c93f"/>
+
+  <text x="48" y="105" fill="#39ff6a" font-family="Consolas, Monaco, monospace" font-size="24">
+    C:\cloud-org-infra&gt; whoami
+  </text>
+
+  <text x="48" y="150" fill="#d7ffe0" font-family="Consolas, Monaco, monospace" font-size="30" font-weight="700">
+    Lucian Stoica
+  </text>
+
+  <text x="48" y="190" fill="#39ff6a" font-family="Consolas, Monaco, monospace" font-size="26">
+    Cloud &amp; Automation Engineer
+  </text>
+
+  <text x="48" y="250" fill="#39ff6a" font-family="Consolas, Monaco, monospace" font-size="24">
+    C:\cloud-org-infra&gt; current_project
+  </text>
+
+  <text x="48" y="295" fill="#d7ffe0" font-family="Consolas, Monaco, monospace" font-size="28" font-weight="700">
+    cloud-org-infra
+  </text>
+
+  <text x="48" y="335" fill="#39ff6a" font-family="Consolas, Monaco, monospace" font-size="23">
+    Azure • PowerShell • GitHub Actions • OIDC • IaC • Monitoring • Backup
+  </text>
+
+  <rect x="48" y="360" width="14" height="28" fill="#39ff6a">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="72" y="382" fill="#39ff6a" font-family="Consolas, Monaco, monospace" font-size="23">
+    status: ACTIVE DEVELOPMENT
+  </text>
+</svg>
