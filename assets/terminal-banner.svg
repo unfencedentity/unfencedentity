@@ -34,7 +34,7 @@ Lucian Stoica
         fill="#00FF00"
         font-family="Consolas,'Lucida Console',monospace"
         font-size="28">
-cloud-org-infra | Azure | PowerShell | Terraform
+cloud-org-infra | Azure | PowerShell | IaC | Terraform | OIDC
   </text>
 
   <text x="30" y="275"
