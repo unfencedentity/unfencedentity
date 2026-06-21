@@ -1,5 +1,9 @@
 ![header](https://img.shields.io/badge/Lucian%20—%20Cloud%20%26%20Automation%20Engineer-Azure%20%7C%20PowerShell%20%7C%20GitHub%20Actions-blue?style=for-the-badge)
 
+<p align="center">
+  <img src="assets/terminal-banner.svg" alt="Terminal Banner">
+</p>
+
 # 👋 Hi, I'm Lucian | Cloud & Automation Engineer  
 > Passionate about building clean, scalable Azure infrastructures through automation and governance.
 
